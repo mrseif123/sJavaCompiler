@@ -1,4 +1,4 @@
-# sJavaCompiler
+# sJavaCompiler (Simple Java Compiler)
 Introduction to Object Oriented Programming final project at The Hebrew University of Jerusalem
 Focuses on:
 
